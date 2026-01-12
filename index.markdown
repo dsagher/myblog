@@ -23,8 +23,8 @@ Born and raised in Ann Arbor, Michigan. Former professional guitarist. Currently
 ## Contact
 
 - **Email:** dsagher@mind-mosaic.co
-- [LinkedIn](www.linkedin.com/in/dan-sagher/)
-- [Instagram](www.instagram.com/dansagher/)
+- [LinkedIn](https://www.linkedin.com/in/dan-sagher/)
+- [Instagram](https://www.instagram.com/dansagher/)
 
 I read everything. Replies may be slow.
 
