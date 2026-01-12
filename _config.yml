@@ -20,7 +20,7 @@
 
 title: Dan Sagher
 description: ""
-baseurl: "/myblog"
+baseurl: ""
 url: "https://dsagher.github.io"
 permalink: /:title/
 theme: null
