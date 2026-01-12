@@ -17,7 +17,7 @@ Born and raised in Ann Arbor, Michigan. Former professional guitarist. Currently
 ## Essays
 
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }})
+- [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
 
 ## Contact
