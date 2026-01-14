@@ -7,7 +7,7 @@ title: Dan Sagher
 ## About
 Born and raised in Ann Arbor, Michigan. Former professional guitarist. Currently building MindMosaic and studying data science at Michigan State University.
 
-## <img src="{{ site.baseurl }}/assets/images/logo.png" alt="MindMosaic Logo" style="width: 16px; height: 16px; vertical-align: middle;" /> MindMosaic 
+## <img src="{{ site.baseurl }}/assets/images/logo.png" alt="MindMosaic Logo" style="width: 16px; height: 16px; vertical-align: middle; margin-bottom: 5px;" /> MindMosaic 
 
 - [MindMosaic](https://www.mind-mosaic.co/)
 
